@@ -33,7 +33,6 @@ h1 {
   width: 380px;
   position: relative;
   top: 62px;
-  transform: rotate(90deg);
   border-radius: 40%;
   border-style: ridge;
   border-width: 1px;
