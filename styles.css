@@ -30,12 +30,13 @@ h1 {
 
 .jack img {
   padding: 5px;
-  width: 350px;
+  width: 280px;
   position: relative;
-  top: 35px;
+  top: 20px;
   border-radius: 40%;
   border-style: ridge;
   border-width: 1px;
+  left: 20px;
 }
 
 .me img {
